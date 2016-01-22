@@ -33,8 +33,10 @@ section{
 
 
 .code-block{
-    border: 1px solid black;
     border-radius: 5px;
+}
+.code-block:hover{
+    background-color: #80DFFF;
 }
 
 .text-vertical-center {
