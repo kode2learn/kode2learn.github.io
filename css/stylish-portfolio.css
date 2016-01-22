@@ -31,6 +31,12 @@ section{
     padding: 50px 0;
 }
 
+
+.code-block{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
