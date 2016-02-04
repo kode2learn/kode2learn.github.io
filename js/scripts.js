@@ -30,3 +30,11 @@
             }
         });
     });
+
+
+    $(document).ready(function () {
+        alert(window.location.href);
+        if(window.location.href.indexOf("#thankyou") > -1) {
+            $('#thankyou').show();
+        }
+    });

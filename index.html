@@ -27,7 +27,7 @@ layout: default
     </header>
 
 
-    <!-- Thank You (only becomes visible when the javascript detects the #thankyou in the URL) -->
+    <!-- Thank You (only becomes visible when the javascript detects the #thankyou in the URL) See Scripts -->
     <section id="thankyou" class="thankyou bg-primary" style="display:none;">
         <div class="container">
             <div class="row">
@@ -41,16 +41,6 @@ layout: default
         </div>
         <!-- /.container -->
     </section>
-    <script type="text/javascript">
-
-        $(document).ready(function () {
-            alert(window.location.href);
-            if(window.location.href.indexOf("#thankyou") > -1) {
-               $('#thankyou').show();
-            }
-        });
-        
-    </script>
 
 
     <!-- About -->
