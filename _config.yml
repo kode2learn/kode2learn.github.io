@@ -9,8 +9,8 @@ primary_contact: 'kode2learn@miamioh.edu'
 
 # Contact Form
 ## ******* NOTE: any email address included on the contact form needs to validate their email. Just change the values below, push the changes to the website, and then submit something to the form. The first time your email address is used it will ask you to validate it.
-contact_form_email: 'deperomm@miamioh.edu'
-contact_form_email_cc: 'husaninm@miamioh.edu'
+contact_form_email: 'mcconamb@miamioh.edu'
+contact_form_email_cc: 'deperomm@miamioh.edu'
 
 
 # Collections allows Jekyll to easily render new content, such as changing "cool code"
